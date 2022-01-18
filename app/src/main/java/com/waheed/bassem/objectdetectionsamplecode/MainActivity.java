@@ -8,6 +8,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.material.button.MaterialButton;
+import com.waheed.bassem.objdet.IdVerificationListener;
+import com.waheed.bassem.objdet.IdVerificationManager;
 
 public class MainActivity extends AppCompatActivity {
 
